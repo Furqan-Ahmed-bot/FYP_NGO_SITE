@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948672490899",
+    "project_id": "ngonotifications-a8e54",
+    "storage_bucket": "ngonotifications-a8e54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948672490899:android:bb373618ba114f61b0cc66",
+        "android_client_info": {
+          "package_name": "com.example.ngo_site"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948672490899-v6uiifrqvvo58ka9g1la93l6fssh78oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbCv56T3X2YSTYCxly13-3_uV1iNwsUuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948672490899-v6uiifrqvvo58ka9g1la93l6fssh78oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
